@@ -4,7 +4,7 @@ API tests for Dashboard API using Mocha, and Supertest.
 
 ## Installation
 
-Use npm to install the necessary packages to run these tests.
+Clone the repository into the folder of your choice. Use npm to install the necessary packages to run these tests.
 
 ```bash
 npm i
