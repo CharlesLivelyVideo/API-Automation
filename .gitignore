@@ -1,0 +1,5 @@
+echo "node_modules/
+mochawesome-report/
+.DS_Store
+npm-debug.log
+coverage/" > .gitignore
