@@ -1,6 +1,6 @@
 // debugHelper.js
 import config from './config.js';
-export const DEBUG_LEVEL = 1; // 0 = OFF, 1 = ON.
+export const DEBUG_LEVEL = 0; // 0 = OFF, 1 = ON.
 export function printConfig() {
 	if (DEBUG_LEVEL <= 0) return;
 		console.log(`\n=== Configuration Values ===`);
